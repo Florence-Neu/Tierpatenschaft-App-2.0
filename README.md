@@ -4,9 +4,7 @@ Ich arbeite derzeit an Punkt 2 (Backend).
 Ablauf
 
 1. Datenbank	
-•	Datenbank in „PostgreSQL“. Alle Daten über die Tiere und Tierheime befinden sich in einer Excel-Tabelle.
-
-•	Erweiterung „PostGIS“: Speicherung, Abfrage und Bearbeitung von räumlichen Daten. Damit kann gemessen werden, welche Tiere in der gewünschten Entfernung sind.
+•	Datenbank in „PostgreSQL“. •	Erweiterung „PostGIS“: Speicherung, Abfrage und Bearbeitung von räumlichen Daten. Damit kann gemessen werden, welche Tiere in der gewünschten Entfernung sind.
 
 
 2. Backend	
